@@ -1,0 +1,130 @@
+h1{
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*JHbpPa0TugDyymxEWgdYVA.jpeg);
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: 400px;
+    text-align: center;
+    font-size: 79px;
+    height: 200px;
+    color: #53363a;
+}
+
+
+h3{
+    font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 200;
+  text-align: center;
+  font-size: x-large;
+  color: #5a3439;
+}
+
+ul li{
+    color: #d09d71;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 1px;
+    text-decoration: none;
+    list-style: none;
+    
+}
+a{
+    color: #203f2c;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.container{
+    padding: 60px;
+    background-color: #efe9e2
+}
+
+
+.green{
+    background-color: #9ef09e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.light{
+    background-color: #895238;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.city{
+    background-color: #793c14;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color:white
+}
+
+.vienna{
+    background-color: #a53939;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+.italian{
+    background-color: #2e2e2e;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    padding: 10px;
+    font-size: 20px;
+    color: white;
+}
+
+h5{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 300;
+}
+
+h4{
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+h2, p{
+    color: #98938e;
+}
+h2{
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    color: #e3bb97;
+}
+
+hr{
+    color: #f5dac1
+}
+
+.roasting{
+    background-color: white;
+    padding: 100px;
+    color: #98938e;
+    font-size: 20px;
+}
